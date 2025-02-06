@@ -54,7 +54,7 @@ pandoc "$INPUT" \
     --variable=header-includes:"\setlength{\emergencystretch}{1em}" \
     --variable=header-includes:"\usepackage[none]{hyphenat}" \
     --variable=header-includes:"\usepackage{enumitem}" \
-    --variable=header-includes:"\setlist{noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt,leftmargin=3em}" \
+    --variable=header-includes:"\setlist[itemize]{label=\textbullet,itemsep=4pt,topsep=0pt,parsep=0pt,partopsep=0pt,leftmargin=3em}" \
     --variable=header-includes:"\usepackage{titlesec}" \
     --variable=header-includes:"\titlespacing{\section}{0pt}{6pt}{2pt}" \
     --variable=header-includes:"\titlespacing{\subsection}{0pt}{4pt}{1pt}" \
