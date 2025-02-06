@@ -8,7 +8,7 @@ Backend & Full-Stack SWE with 5 years of experience. Proficient in TypeScript, N
 **AI Coach** | *January 2025 – Present*  
 Tech Stack: TypeScript, Next.js (React.js), OpenAI API (GPT-4), Vector Database, RAG, Prisma  
 
-- Built an AI coaching app using GPT-4 utilizing a vector database for contextual conversation retrieval.
+- Built an AI coaching web-app using GPT-4 utilizing a vector database for contextual conversation retrieval.
 - Implemented Retrieval-Augmented Generation (RAG) to improve AI responses based on user history.
 - Adapted AI coaching strategies through system prompts tailored to user progress and historical interactions.
 
