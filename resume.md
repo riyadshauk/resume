@@ -2,11 +2,11 @@
 [e] riyad.shauk@gmail.com | Santa Monica, CA | U.S. Citizen | [c] 310-866-6284 | [GitHub: riyadshauk](https://github.com/riyadshauk) | [LinkedIn: riyadshauk](https://www.linkedin.com/in/riyadshauk)
 
 ## Professional Summary
-Backend & Full-Stack SWE with 5 years of experience. Proficient in TypeScript, Next.js, React.js, and utilizing cloud services to solve business problems. Strong collaborator passionate about building robust, impactful and innovative software solutions.
+Backend & Full-Stack SWE with 5 years of experience. Skilled in TypeScript (Node.js), Next.js, React.js, and utilizing cloud services to solve business problems. Strong collaborator passionate about building robust, impactful and innovative software solutions.
 
 ## Projects
 **AI Coach** | *January 2025 – Present*  
-Tech Stack: TypeScript, Next.js (React.js), OpenAI API (GPT-4), Vector Database, RAG, Prisma  
+Tech Stack: TypeScript (Node.js), Next.js (React.js), OpenAI API (GPT-4), Vector Database, RAG, Prisma  
 
 - Built an AI coaching web-app using GPT-4 utilizing a vector database for contextual conversation retrieval.
 - Implemented Retrieval-Augmented Generation (RAG) to improve AI responses based on user history.
@@ -28,7 +28,7 @@ Tech Stack: C# .NET Framework, Pub/Sub architecture via Azure ServiceBus
 **Backend Software Engineer II**  
 **Dr. Squatch** – Remote (Marina del Rey, CA)  
 *2021 – 2023*  
-Tech Stack: TypeScript + AWS / Serverless
+Tech Stack: TypeScript (Node.js) + AWS / Serverless
 
 - Built and owned back-end microservices and APIs for various business use cases within post-order processing.
 - Connected custom delivery data with Klaviyo to support personalized email campaigns.
@@ -54,7 +54,7 @@ Tech Stack: Go, Java Spring Boot, MySQL/Hibernate, Kafka, Couchbase
 **Cloud Full Stack Developer / Solution Engineer**  
 **Oracle** – In-Person (Santa Monica, CA)  
 *2018 – 2020*  
-Tech Stack: TypeScript, Python, React  
+Tech Stack: TypeScript (Node.js), Python, React  
 
 - Built POC applications showcasing Oracle Cloud capabilities, integrating services using TypeScript, Python, and React.
 
